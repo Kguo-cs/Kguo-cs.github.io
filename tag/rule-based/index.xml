@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rule-based | Ke Guo</title>
+    <link>https://kguo-cs.github.io/tag/rule-based/</link>
+      <atom:link href="https://kguo-cs.github.io/tag/rule-based/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rule-based</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kguo-cs.github.io/media/icon_hu4e21ca53c3632b2d7040f6ace0c15cba_2428_512x512_fill_lanczos_center_3.png</url>
+      <title>Rule-based</title>
+      <link>https://kguo-cs.github.io/tag/rule-based/</link>
+    </image>
+    
+    <item>
+      <title>Decentralized Collision Avoidance</title>
+      <link>https://kguo-cs.github.io/research/multi-agent-trajectory-planning/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://kguo-cs.github.io/research/multi-agent-trajectory-planning/</guid>
+      <description>&lt;p&gt;As one of the most popular multi-agent path planning approaches, the optimal reciprocal collision avoidance (ORCA) algorithm assumes that each agent takes half the responsibility for collision avoidance. However, due to the asymmetric situation faced by adjacent agents, they are expected to take different responsibilities for collision avoidance to improve the entire crowd&amp;rsquo;s navigation performance. Thus, in this letter, we propose the variable responsibility optimal reciprocal collision avoidance (VR-ORCA) algorithm, which relaxes the original assumption in ORCA and only requires the responsibilities of a pair of agents sum to one. In particular, the responsibility division between a pair of nearby agents is determined independently for each agent by minimizing a cost function involving their common neighbors. We validate our approach on a variety of simulated benchmarks and the results demonstrate that our novel method is beneficial in reducing the collision probability, travel time and distance of ORCA.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

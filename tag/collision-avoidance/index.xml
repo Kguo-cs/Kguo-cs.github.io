@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collision Avoidance | Ke Guo</title>
+    <link>https://kguo-cs.github.io/tag/collision-avoidance/</link>
+      <atom:link href="https://kguo-cs.github.io/tag/collision-avoidance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Collision Avoidance</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kguo-cs.github.io/media/icon_hu4e21ca53c3632b2d7040f6ace0c15cba_2428_512x512_fill_lanczos_center_3.png</url>
+      <title>Collision Avoidance</title>
+      <link>https://kguo-cs.github.io/tag/collision-avoidance/</link>
+    </image>
+    
+    <item>
+      <title>VR-ORCA: Variable Responsibility Optimal Reciprocal Collision Avoidance</title>
+      <link>https://kguo-cs.github.io/publication/multi-agent-trajectory-planning/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://kguo-cs.github.io/publication/multi-agent-trajectory-planning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

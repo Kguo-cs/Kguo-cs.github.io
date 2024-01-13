@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trajectory Planning | Ke Guo</title>
+    <link>https://kguo-cs.github.io/tag/trajectory-planning/</link>
+      <atom:link href="https://kguo-cs.github.io/tag/trajectory-planning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trajectory Planning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kguo-cs.github.io/media/icon_hu4e21ca53c3632b2d7040f6ace0c15cba_2428_512x512_fill_lanczos_center_3.png</url>
+      <title>Trajectory Planning</title>
+      <link>https://kguo-cs.github.io/tag/trajectory-planning/</link>
+    </image>
+    
+    <item>
+      <title>CCIL: Context-conditioned imitation learning for urban driving</title>
+      <link>https://kguo-cs.github.io/publication/autonomous-driving/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://kguo-cs.github.io/publication/autonomous-driving/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

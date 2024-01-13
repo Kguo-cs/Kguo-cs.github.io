@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trajectory Prediction | Ke Guo</title>
+    <link>https://kguo-cs.github.io/tag/trajectory-prediction/</link>
+      <atom:link href="https://kguo-cs.github.io/tag/trajectory-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trajectory Prediction</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kguo-cs.github.io/media/icon_hu4e21ca53c3632b2d7040f6ace0c15cba_2428_512x512_fill_lanczos_center_3.png</url>
+      <title>Trajectory Prediction</title>
+      <link>https://kguo-cs.github.io/tag/trajectory-prediction/</link>
+    </image>
+    
+    <item>
+      <title>End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps</title>
+      <link>https://kguo-cs.github.io/publication/trajectory-prediction/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://kguo-cs.github.io/publication/trajectory-prediction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
