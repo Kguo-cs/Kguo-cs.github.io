@@ -5,7 +5,7 @@
     <link>https://kguo-cs.github.io/post/</link>
       <atom:link href="https://kguo-cs.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jan 2024 19:34:00 +0800</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Feb 2024 19:34:00 +0800</lastBuildDate>
     <image>
       <url>https://kguo-cs.github.io/media/icon_hu4e21ca53c3632b2d7040f6ace0c15cba_2428_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>My Article Name</title>
+      <title>One paper accepted by CVPR 2024</title>
       <link>https://kguo-cs.github.io/post/my-article-name/</link>
-      <pubDate>Tue, 02 Jan 2024 19:34:00 +0800</pubDate>
+      <pubDate>Mon, 26 Feb 2024 19:34:00 +0800</pubDate>
       <guid>https://kguo-cs.github.io/post/my-article-name/</guid>
       <description></description>
     </item>
@@ -251,7 +251,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-213768594&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-789526431&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -261,7 +261,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-213768594&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-789526431&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

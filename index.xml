@@ -33,9 +33,17 @@
     </item>
     
     <item>
-      <title>My Article Name</title>
+      <title>[26/02/24] One paper has been accepted by CVPR 2024</title>
+      <link>https://kguo-cs.github.io/news/2024cvpr/</link>
+      <pubDate>Mon, 26 Feb 2024 19:34:00 +0800</pubDate>
+      <guid>https://kguo-cs.github.io/news/2024cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper accepted by CVPR 2024</title>
       <link>https://kguo-cs.github.io/post/my-article-name/</link>
-      <pubDate>Tue, 02 Jan 2024 19:34:00 +0800</pubDate>
+      <pubDate>Mon, 26 Feb 2024 19:34:00 +0800</pubDate>
       <guid>https://kguo-cs.github.io/post/my-article-name/</guid>
       <description></description>
     </item>
@@ -113,6 +121,14 @@
     </item>
     
     <item>
+      <title>[02/09/23] One paper has been accepted by CORL 2023</title>
+      <link>https://kguo-cs.github.io/news/2023corl/</link>
+      <pubDate>Sat, 02 Sep 2023 19:34:00 +0800</pubDate>
+      <guid>https://kguo-cs.github.io/news/2023corl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CCIL: Context-conditioned imitation learning for urban driving</title>
       <link>https://kguo-cs.github.io/publication/autonomous-driving/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
@@ -143,6 +159,14 @@
     </item>
     
     <item>
+      <title>[25/04/23] One paper has been accepted by RSS 2023</title>
+      <link>https://kguo-cs.github.io/news/2023rss/</link>
+      <pubDate>Tue, 25 Apr 2023 19:34:00 +0800</pubDate>
+      <guid>https://kguo-cs.github.io/news/2023rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps</title>
       <link>https://kguo-cs.github.io/publication/trajectory-prediction/</link>
       <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
@@ -160,6 +184,14 @@
     </item>
     
     <item>
+      <title>[03/03/22] One paper has been accepted by CVPR 2022</title>
+      <link>https://kguo-cs.github.io/news/2022cvpr/</link>
+      <pubDate>Thu, 03 Mar 2022 19:34:00 +0800</pubDate>
+      <guid>https://kguo-cs.github.io/news/2022cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>VR-ORCA: Variable Responsibility Optimal Reciprocal Collision Avoidance</title>
       <link>https://kguo-cs.github.io/publication/multi-agent-trajectory-planning/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
@@ -174,6 +206,14 @@
       <guid>https://kguo-cs.github.io/research/multi-agent-trajectory-planning/</guid>
       <description>&lt;p&gt;As one of the most popular multi-agent path planning approaches, the optimal reciprocal collision avoidance (ORCA) algorithm assumes that each agent takes half the responsibility for collision avoidance. However, due to the asymmetric situation faced by adjacent agents, they are expected to take different responsibilities for collision avoidance to improve the entire crowd&amp;rsquo;s navigation performance. Thus, in this letter, we propose the variable responsibility optimal reciprocal collision avoidance (VR-ORCA) algorithm, which relaxes the original assumption in ORCA and only requires the responsibilities of a pair of agents sum to one. In particular, the responsibility division between a pair of nearby agents is determined independently for each agent by minimizing a cost function involving their common neighbors. We validate our approach on a variety of simulated benchmarks and the results demonstrate that our novel method is beneficial in reducing the collision probability, travel time and distance of ORCA.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>[28/02/21] One paper has been accepted by IEEE RAL (with ICRA 2021)</title>
+      <link>https://kguo-cs.github.io/news/2021icra/</link>
+      <pubDate>Sun, 28 Feb 2021 19:34:00 +0800</pubDate>
+      <guid>https://kguo-cs.github.io/news/2021icra/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -360,7 +400,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-213768594&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-789526431&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -370,7 +410,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-213768594&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-789526431&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

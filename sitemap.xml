@@ -10,12 +10,20 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://kguo-cs.github.io/news/2024cvpr/</loc>
+    <lastmod>2024-02-26T19:34:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://kguo-cs.github.io/post/my-article-name/</loc>
-    <lastmod>2024-01-02T19:34:00+08:00</lastmod>
+    <lastmod>2024-02-26T19:34:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kguo-cs.github.io/post/</loc>
-    <lastmod>2024-01-02T19:34:00+08:00</lastmod>
+    <lastmod>2024-02-26T19:34:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kguo-cs.github.io/news/</loc>
+    <lastmod>2024-02-26T19:34:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kguo-cs.github.io/publication-type/article-conference/</loc>
@@ -74,6 +82,10 @@
     <lastmod>2023-09-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://kguo-cs.github.io/news/2023corl/</loc>
+    <lastmod>2023-09-02T19:34:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://kguo-cs.github.io/publication/autonomous-driving/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -98,6 +110,10 @@
     <lastmod>2023-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://kguo-cs.github.io/news/2023rss/</loc>
+    <lastmod>2023-04-25T19:34:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://kguo-cs.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,6 +128,10 @@
   </url><url>
     <loc>https://kguo-cs.github.io/research/trajectory-prediction/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kguo-cs.github.io/news/2022cvpr/</loc>
+    <lastmod>2022-03-03T19:34:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kguo-cs.github.io/publication-type/article-journal/</loc>
@@ -136,6 +156,10 @@
   </url><url>
     <loc>https://kguo-cs.github.io/tag/rule-based/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://kguo-cs.github.io/news/2021icra/</loc>
+    <lastmod>2021-02-28T19:34:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://kguo-cs.github.io/tag/academic/</loc>
